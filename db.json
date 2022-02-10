@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "text": "Doctor Appointment",
+      "day": "Feb 5th, 2:30pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Friday Meeting",
+      "day": "Feb 6th, 2:30pm",
+      "reminder": false,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
