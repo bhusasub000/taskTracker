@@ -9,8 +9,14 @@
     {
       "text": "Friday Meeting",
       "day": "Feb 6th, 2:30pm",
-      "reminder": false,
+      "reminder": true,
       "id": 2
+    },
+    {
+      "text": "Cat Digital Meeting",
+      "day": "February 18th, 2:00pm",
+      "reminder": true,
+      "id": 3
     }
   ],
   "comments": [
